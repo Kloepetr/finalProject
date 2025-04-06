@@ -9,8 +9,6 @@ assigned to teach. All data entered will be saved into csv files (one for studen
 info, one for course info, and one for enrollment info).
 
 
-
-
 My submission contains the following:
 Admin module:
 -admin.py (executable)
@@ -36,9 +34,11 @@ For all modules:
 Other files:
 -courseClass.py (used to pass in instructor as object)
 
-
 generated files:
 -instructor.csv (used to store instructor's information. not shown here, will generate through admin adding an instructor)
 -enrollment.csv (used to store student's enrollment information. not shown here, will generate through student enrolling in course)
 -student.csv (used to store student's information. not shown here, will generate through admin adding a student)
 -course.csv(used to store courses information. not shown here, will generate through admin adding a course)
+
+
+Final grade: 102% (A)
