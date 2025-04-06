@@ -1,6 +1,17 @@
+Project description:
+You will implement a mini version of the registrar system, with data stored in csv files. The application
+will include an admin module, a student module and an instructor module. When the admin module
+runs, an admin will login and be able to add students, add instructors, add courses and view information
+entered in this module (through different runs). The data added will be saved into csv files. When the
+student module runs, a student will login and be able to select a course to enroll and see all courses they
+are enrolled in. When the instructor module runs, an instructor will see all the courses he/she is
+assigned to teach. All data entered will be saved into csv files (one for student info, one for instructor
+info, one for course info, and one for enrollment info).
+
+
+
+
 My submission contains the following:
-
-
 Admin module:
 -admin.py (executable)
 -adminClass.py (utility)
